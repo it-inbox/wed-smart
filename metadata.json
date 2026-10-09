@@ -1,0 +1,8 @@
+{
+  "name": "Remix WedSmart — Wedding Date Optimization Platform",
+  "description": "Find your perfect wedding date and save thousands by cross-referencing supplier availability and dynamic pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
